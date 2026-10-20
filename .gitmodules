@@ -1,0 +1,5 @@
+[submodule "modelzoo"]
+	path = modelzoo
+	url = https://github.com/Cerebras/modelzoo.git
+	shallow = true
+	ignore = untracked
